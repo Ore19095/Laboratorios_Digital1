@@ -1,0 +1,140 @@
+$date
+	Sun Aug 09 12:32:05 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module testbench $end
+$var wire 1 ! alarma3 $end
+$var wire 1 " alarma2 $end
+$var wire 1 # alarma1 $end
+$var reg 1 $ movimiento $end
+$var reg 1 % sistema $end
+$var reg 1 & ventana $end
+$scope module A1 $end
+$var wire 1 # alarma $end
+$var wire 1 $ movimiento $end
+$var wire 1 % sistema $end
+$var wire 1 & ventana $end
+$var wire 1 ' w1 $end
+$var wire 1 ( w2 $end
+$var wire 1 ) w3 $end
+$upscope $end
+$scope module A2 $end
+$var wire 1 " alarma $end
+$var wire 1 $ movimiento $end
+$var wire 1 * notM $end
+$var wire 1 + notS $end
+$var wire 1 , notV $end
+$var wire 1 % sistema $end
+$var wire 1 & ventana $end
+$var wire 1 - w1 $end
+$var wire 1 . w2 $end
+$var wire 1 / w3 $end
+$var wire 1 0 w4 $end
+$var wire 1 1 w5 $end
+$upscope $end
+$scope module A3 $end
+$var wire 1 ! alarma $end
+$var wire 1 $ movimiento $end
+$var wire 1 % sistema $end
+$var wire 1 & ventana $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x1
+x0
+x/
+x.
+x-
+x,
+x+
+x*
+x)
+x(
+x'
+x&
+x%
+x$
+x#
+x"
+x!
+$end
+#2
+0#
+0"
+1.
+1/
+10
+0(
+0!
+0'
+0)
+1*
+11
+1,
+1+
+0-
+0$
+0&
+0%
+#3
+0"
+0.
+0*
+1-
+1$
+#4
+1*
+0/
+0,
+1.
+0$
+1&
+#5
+0"
+00
+0*
+1/
+1$
+#6
+1#
+1!
+1"
+1(
+1*
+1,
+0+
+10
+0$
+0&
+1%
+#7
+0(
+1'
+0*
+1$
+#8
+0#
+0"
+0!
+0'
+1*
+01
+0,
+0$
+1&
+#9
+1"
+1#
+1!
+1)
+0*
+11
+1$
+#10
