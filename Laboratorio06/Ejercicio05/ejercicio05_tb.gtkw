@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.77 (w)1999-2016 BSI
+[*] Sat Sep 05 09:42:06 2020
+[*]
+[dumpfile] "C:\Users\AngelOrellana\OneDrive\Escritorio\uvg\4toSemestre\Digital 1\Laboratorios_Digital1\Laboratorio06\Ejercicio05\ejercicio05_tb.vcd"
+[dumpfile_mtime] "Sat Sep 05 09:34:17 2020"
+[dumpfile_size] 787
+[savefile] "C:\Users\AngelOrellana\OneDrive\Escritorio\uvg\4toSemestre\Digital 1\Laboratorios_Digital1\Laboratorio06\Ejercicio05\ejercicio05_tb.gtkw"
+[timestart] 0
+[size] 1536 801
+[pos] -113 -113
+*-2.949833 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 224
+@28
+testbench.clk
+@22
+testbench.d[3:0]
+testbench.out[3:0]
+@28
+testbench.rst
+[pattern_trace] 1
+[pattern_trace] 0
